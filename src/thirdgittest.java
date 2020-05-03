@@ -5,6 +5,7 @@ public class thirdgittest {
 		// TODO Auto-generated method stub
 		System.out.println("this is 3rd new  isj");
 		System.out.println("this is 3rd new sit mergetest");
+		System.out.println("this is 3rd new sit rebase test");
 	}
 
 }
